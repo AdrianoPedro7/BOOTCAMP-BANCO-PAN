@@ -1,5 +1,7 @@
 public class tiposVariaveis {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        double soma = 10.5 + 15.7;
+        System.out.println(soma);
+        
     }
 }
